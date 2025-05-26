@@ -1,5 +1,5 @@
 package enumeration;
 
-public enum StatoMezzo {
+public enum StatoServizio {
     IN_SERVIZIO, IN_MANUTENZIONE
 }
